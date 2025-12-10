@@ -6,8 +6,6 @@ Este es un proyecto dockerizado con un html que muestra:
 - DNI
 - Y el texto "Examen Final"
 
-No requiere servidor local. Solo abrir `index.html`.
-
 ---
 
 ## 2) Docker
